@@ -15,7 +15,7 @@ The goal is to analyze customer behavior and build an interpretable machine lear
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tools Used
 - Python
 - Pandas
 - NumPy
