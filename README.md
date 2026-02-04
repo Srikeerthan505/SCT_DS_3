@@ -64,3 +64,7 @@ Displays the most influential features affecting customer subscription.
 2. Install required libraries:
    ```bash
    pip install pandas numpy matplotlib scikit-learn
+3. To run:
+   ```bash
+   python decision_tree.py
+
